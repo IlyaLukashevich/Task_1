@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.vectors.VectorsTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2024-03-13T14:35:11" hostname="DESKTOP-OOCM0N3" time="0.03">
+  <properties/>
+  <testcase name="crossMagnitude()" classname="org.example.vectors.VectorsTest" time="0.013"/>
+  <testcase name="addNew()" classname="org.example.vectors.VectorsTest" time="0.002"/>
+  <testcase name="divNew()" classname="org.example.vectors.VectorsTest" time="0.001"/>
+  <testcase name="mulNew()" classname="org.example.vectors.VectorsTest" time="0.001"/>
+  <testcase name="subNew()" classname="org.example.vectors.VectorsTest" time="0.0"/>
+  <testcase name="to()" classname="org.example.vectors.VectorsTest" time="0.0"/>
+  <testcase name="add()" classname="org.example.vectors.VectorsTest" time="0.002"/>
+  <testcase name="div()" classname="org.example.vectors.VectorsTest" time="0.0"/>
+  <testcase name="len()" classname="org.example.vectors.VectorsTest" time="0.0"/>
+  <testcase name="mul()" classname="org.example.vectors.VectorsTest" time="0.0"/>
+  <testcase name="sub()" classname="org.example.vectors.VectorsTest" time="0.0"/>
+  <testcase name="norm()" classname="org.example.vectors.VectorsTest" time="0.0"/>
+  <testcase name="isOrt()" classname="org.example.vectors.VectorsTest" time="0.001"/>
+  <testcase name="crossProd()" classname="org.example.vectors.VectorsTest" time="0.0"/>
+  <testcase name="divZero()" classname="org.example.vectors.VectorsTest" time="0.001"/>
+  <testcase name="sclProd()" classname="org.example.vectors.VectorsTest" time="0.001"/>
+  <testcase name="normZeroVector()" classname="org.example.vectors.VectorsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
